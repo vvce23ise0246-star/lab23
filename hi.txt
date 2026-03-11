@@ -4,4 +4,4 @@ add line 2
 =======
 add 1 line
 >>>>>>> feature1
-add 3 line
+add 3 linessss
